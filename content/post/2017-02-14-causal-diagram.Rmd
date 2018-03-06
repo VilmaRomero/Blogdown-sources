@@ -27,7 +27,7 @@ mydata <- read.table("data_causal.txt", header = TRUE, sep = "\t")
 
 A small sample of the data is shown in the following table:
 
-```{r, echo=FALSE,results='asis'}
+```{r, echo=FALSE,results='asis',warning=FALSE}
 library(knitr)
 kable(rbind(head(mydata,2),tail(mydata,2)),format = "markdown",digits = 6,row.names = FALSE,align = 'c')
 
