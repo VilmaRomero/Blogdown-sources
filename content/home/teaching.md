@@ -16,9 +16,9 @@ weight = 10
 
 ### [SEUPROS FIEECS](http://www.seupros.uni.edu.pe)  
 
-* [First Specialization Program in Business Intelligence & Business Analytics](http://www.seupros.uni.edu.pe/index.php/programas/pebiba) 
+* [Specialization Program in Business Intelligence & Business Analytics](http://fieecs.uni.edu.pe/programa-especializacion-en-business-intelligence-business-analytics/) 
 
-	* **Second Module: Data Analysis Advanced** <br/> You can see an overview of the module [here](/pdf/Modulo2.pdf).
+	* **Second Module: Advanced Data Analysis** <br/> You can see an overview of the module [here](/pdf/Modulo2.pdf).
 
 ### UNI Semester 2017-I and Semester 2017 - II
 
