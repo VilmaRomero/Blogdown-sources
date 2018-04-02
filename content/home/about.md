@@ -37,4 +37,4 @@ weight = 1
 
 # About me
 
-Currently, I am a lecturer in the [Statistical Engineering School](http://www.fieecs.uni.edu.pe/pregrado_estadistica.html) at the [National University of Engineering](http://www.uni.edu.pe) located in the city of Lima, Peru.
+Currently, I am a **Lecturer of Statistics** in the [Statistical Engineering School](http://www.fieecs.uni.edu.pe/pregrado_estadistica.html) at the [National University of Engineering](http://www.uni.edu.pe) and a **Lecturer of Data Mining** in the [<span style="color:rgb(217, 10, 37)"> School of Engineering of Information Technologies and Systems </span>](https://www.ue.edu.pe/ingenieria-de-tecnologias-de-informacion-y-sistemas) at [<span style="color:rgb(217, 10, 37)"> ESAN University</span>](https://www.ue.edu.pe), both located in the city of Lima-Peru. I am also a co-organizer of [<span style="color:rgb(136, 57, 138)"> ''RLadies-Lima''</span>](https://twitter.com/RLadiesLima).

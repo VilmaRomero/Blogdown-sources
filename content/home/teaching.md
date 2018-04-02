@@ -20,6 +20,15 @@ weight = 10
 
 	* **Second Module: Advanced Data Analysis** <br/> You can see an overview of the module [here](/pdf/Modulo2.pdf).
 
+### ESAN Semester 2018-I
+
+* 10615 Advanced Data Mining
+
+### UNI Semester 2018-I
+
+* ES-111 Statistics I
+* EC-215 Computing II
+
 ### UNI Semester 2017-I and Semester 2017 - II
 
 * ES-211 Statistics II ([Syllabus](/pdf/Silabo-Estad2-VR.pdf))
