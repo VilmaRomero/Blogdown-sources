@@ -18,4 +18,7 @@ autolink = true
 
 <i class="fa fa-calendar fa-2x fa-fw"></i> Want to make an appointment? Write me an email
 
+<i class="fa fa-envelope fa-2x fa-fw"></i> [vromero@uni.edu.pe](mailto:vromeror@uni.edu.pe)
+
 <i class="fa fa-envelope fa-2x fa-fw"></i> [vromero@esan.edu.pe](mailto:vromero@esan.edu.pe)
+
