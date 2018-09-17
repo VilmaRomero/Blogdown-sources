@@ -14,4 +14,4 @@ weight = 30
 
 +++
 
-Here is my detailed [resume](/pdf/VilmaRomeroResume.pdf).
+Here is my [detailed resume](/pdf/VilmaRomeroResume.pdf).

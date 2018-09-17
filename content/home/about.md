@@ -38,7 +38,11 @@ weight = 1
 
 # About me
 
-* **Lecturer of Statistics** in the [*Statistical Engineering School*](http://www.fieecs.uni.edu.pe/pregrado_estadistica.html) at the [National University of Engineering](http://www.uni.edu.pe).
-* **Lecturer of Data Mining** in the *School of Engineering of Information Technologies and Systems* at [ESAN University](https://www.ue.edu.pe).
-* Teaching Advanced Data Analysis at SEUPROS-UNI.
-* Co-Organizer of ["RLadies-Lima"](https://twitter.com/RLadiesLima).
+I am a Lecturer in the [Statistical Engineering School](http://www.fieecs.uni.edu.pe/pregrado_estadistica.html) at the [National University of Engineering](http://www.uni.edu.pe) located in Lima, Peru.
+
+I am part of the [R-Ladies Global community](https://rladies.org) and Co-Organizer of the chapter [R-Ladies Lima](https://twitter.com/RLadiesLima).
+
+Also, I am currently contributing as a Reviser in the spanish translation of the book [R for Data Science](http://r4ds.had.co.nz). You can learn more about the collaborative project [here](https://github.com/cienciadedatos/descripcion-y-orientaciones).
+
+
+
