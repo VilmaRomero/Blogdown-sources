@@ -14,27 +14,31 @@ weight = 10
 
 +++
 
-### [SEUPROS FIEECS](http://www.seupros.uni.edu.pe)  
+I teach the following **undergraduate courses**: 
 
-* [Specialization Program in Business Intelligence & Business Analytics](http://fieecs.uni.edu.pe/programa-especializacion-en-business-intelligence-business-analytics/) 
+[**National University of Engineering**](http://www.uni.edu.pe):
 
-	* **Second Module: Advanced Data Analysis** <br/> You can see an overview of the module [here](/pdf/Modulo2.pdf).
+* ES-111: Statistics I (Semesters 2018-I, 2018-II)
+* ES-211: [Statistics II](/pdf/Silabo-Estad2-VR.pdf) (Semesters 2017-I, 2017-II and 2018-II)
+* EC-215: [Computing II](/pdf/Silabo-CompuII-2017.pdf) (Semesters 2016-II, 2017-I, 2017-II and 2018-I)
+* ES-024: [Biostatistics](/pdf/Silabo-Bioestadistica.pdf) (Semester 2016-II)
 
-### ESAN Semester 2018-I
+[**ESAN University**](https://www.ue.edu.pe/index.php)
 
-* 10615 Advanced Data Mining
+* 10615: Advanced Data Mining (Semester 2018-I)
 
-### UNI Semester 2018-I
+---
 
-* ES-111 Statistics I
-* EC-215 Computing II
+I teach the following modules within two **specialization programs**:
 
-### UNI Semester 2017-I and Semester 2017 - II
+[**SEUPROS FIEECS**](http://www.seupros.uni.edu.pe)  
 
-* ES-211 Statistics II ([Syllabus](/pdf/Silabo-Estad2-VR.pdf))
-* EC-215 Computing II ([Syllabus](/pdf/Silabo-CompuII-2017.pdf))
+* [Specialization Program in Business Intelligence & Business Analytics](http://fieecs.uni.edu.pe/programa-especializacion-en-business-intelligence-business-analytics/) <br/> **Second Module: Advanced Data Analysis** <br/> You can see an overview of the module [here](/pdf/Modulo2.pdf).
 
-### UNI Semester 2016-II 
+[**Data Mining Consulting**](http://dmc.pe)
 
-* EC-215 Computing II
-* ES-024 Biostatistics ([Syllabus](/pdf/Silabo-Bioestadistica.pdf))
+* [Big Data Science Professional](http://dmc.pe/uploads/syllabus/peas-brochure/pea-big-data-science-professional.pdf) <br/> **Module: R for Data Science** 
+
+
+
+

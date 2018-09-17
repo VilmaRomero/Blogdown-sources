@@ -44,5 +44,7 @@ I am part of the [R-Ladies Global community](https://rladies.org) and Co-Organiz
 
 Also, I am currently contributing as a Reviser in the spanish translation of the book [R for Data Science](http://r4ds.had.co.nz). You can learn more about the collaborative project [here](https://github.com/cienciadedatos/descripcion-y-orientaciones).
 
-
-
+<a  class="badge badge-primary" href="/pdf/VilmaRomeroResume.pdf"
+              role="button">Curriculum Vitae <i class="fa fa-file-pdf-o" aria-hidden="true"></i> </a>
+              
+              
