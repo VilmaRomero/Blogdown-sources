@@ -16,7 +16,7 @@ weight = 10
 
 I teach the following **undergraduate courses**: 
 
-[**National University of Engineering**](http://www.uni.edu.pe):
+[**National University of Engineering**](http://www.uni.edu.pe)
 
 * ES-111: Statistics I (Semesters 2018-I, 2018-II)
 * ES-211: [Statistics II](/pdf/Silabo-Estad2-VR.pdf) (Semesters 2017-I, 2017-II and 2018-II)
