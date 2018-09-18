@@ -40,7 +40,7 @@ weight = 1
 
 I am a Lecturer in the [Statistical Engineering School](http://www.fieecs.uni.edu.pe/pregrado_estadistica.html) at the [National University of Engineering](http://www.uni.edu.pe) located in Lima, Peru.
 
-I am part of the [R-Ladies Global community](https://rladies.org) and Co-Organizer of the chapter [R-Ladies Lima](https://twitter.com/RLadiesLima).
+I am part of the [R-Ladies Global community](https://rladies.org) and Co-Organizer of the chapter [R-Ladies Lima](https://www.meetup.com/es-ES/rladies-lima/).
 
 Also, I am currently contributing as a Reviser in the Spanish translation of the book [R for Data Science](http://r4ds.had.co.nz). You can learn more about the collaborative project [here](https://github.com/cienciadedatos/descripcion-y-orientaciones).
 
