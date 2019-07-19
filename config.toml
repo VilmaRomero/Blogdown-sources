@@ -1,7 +1,7 @@
 publishDir = "../vilmaromero.github.io"
 baseurl = "https://vilmaromero.github.io/"  # End your URL with a `/` trailing slash.
 title = "Vilma Romero"
-copyright = "&copy; 2018 Vilma Romero"
+copyright = "&copy; 2019 Vilma Romero"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -22,10 +22,10 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Vilma Romero"
   role = "Lecturer in Statistics"
-  organization = "National University of Engineering"
-  organization_url = "http://www.uni.edu.pe"
+  organization = "University of Lima"
+  organization_url = "http://www.ulima.edu.pe"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait3.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "UpdatePortrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 #  email = "vromeror@uni.edu.pe"
 #   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 #   office_hours = "Monday 10:00 to 13:00 or email for appointment"
